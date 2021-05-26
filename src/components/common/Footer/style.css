@@ -1,0 +1,36 @@
+.footerwrapper {
+    background: #00162E;
+    padding: 153px 0px 153px 0px;
+}
+.footerwrapper .footersection h1 {
+    color: white;
+    font-weight: 400;
+    margin-top: 0px;
+    line-height: 1;
+}
+.footerwrapper .footersection h2 {
+    color: white;
+    font-weight: 400;
+    margin-top: 0px;
+    line-height: 1;
+}
+.footerwrapper .footersection ul {
+    list-style: none;
+    padding: 0px;
+}
+.footerwrapper .footersection ul li a {
+    color: white;
+    text-decoration: none;
+    font-size: 17px;
+    margin-bottom: 17px;
+    display: block;
+}
+.footerbottom {
+    background: #397AD0;
+    color: white;
+    padding: 17px;
+}
+.footerbottom p {
+    margin: 0px;
+    text-align: center;
+}
